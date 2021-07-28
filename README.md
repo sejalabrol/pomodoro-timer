@@ -29,7 +29,7 @@ A ✔ gets added to the screen after every complete work cycle
 Clone the project
 
 ```bash
-  git clone git clone https://github.com/sejalabrol/pomodoro-timer
+  git clone https://github.com/sejalabrol/pomodoro-timer
 ```
 
 Go to the project directory
